@@ -12,6 +12,7 @@
 /* 3. Base stuff */
 @import 'base/_base';
 @import 'base/_typography';
+@import 'base/_fonts'
 
 /* 4. Layout-related sections */
 @import 'layout/_header';

@@ -8,17 +8,18 @@
   padding: 1em;
   display: flex;
   align-items: center;
-  background-color: #fff;
+  background-color: #000;
   z-index: 1;
 }
 
 .nav__wrapper {
   max-width: $max-width;
-  width: 100%;
+  /*width: 100%;*/
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
+  text-align: center;
 }
 
 .nav__logo-wrapper {
@@ -26,10 +27,11 @@
 }
 
 .nav__logo {
-  font-size: 1em;
+  font-size: 1.8em;
   margin: 0;
   user-select: none;
-  color: $text-color;
+  color: #3d9ff8;
+  font-family: 'UniviaProRegular', sans-serif;
   text-decoration: none;
 }
 

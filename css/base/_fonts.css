@@ -1,1 +1,216 @@
 /* This file contains all @font-face declarations, if any. */
+@font-face {
+  font-family: 'UniviaProUltraLight-Italic';
+  src: url('../fonts/UniviaProUltraLight-Italic.eot');
+  src: url('../fonts/UniviaProUltraLight-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProUltraLight-Italic.woff') format('woff'),
+       url('../fonts/UniviaProUltraLight-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProUltraLight-Italic.svg#UniviaProUltraLight-Italic') format('svg'),
+       url('../fonts/UniviaProUltraLight-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProUltraLight';
+  src: url('../fonts/UniviaProUltraLight.eot');
+  src: url('../fonts/UniviaProUltraLight.woff2') format('woff2'),
+       url('../fonts/UniviaProUltraLight.woff') format('woff'),
+       url('../fonts/UniviaProUltraLight.ttf') format('truetype'),
+       url('../fonts/UniviaProUltraLight.svg#UniviaProUltraLight') format('svg'),
+       url('../fonts/UniviaProUltraLight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProUltra-Italic';
+  src: url('../fonts/UniviaProUltra-Italic.eot');
+  src: url('../fonts/UniviaProUltra-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProUltra-Italic.woff') format('woff'),
+       url('../fonts/UniviaProUltra-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProUltra-Italic.svg#UniviaProUltra-Italic') format('svg'),
+       url('../fonts/UniviaProUltra-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProUltra';
+  src: url('../fonts/UniviaProUltra.eot');
+  src: url('../fonts/UniviaProUltra.woff2') format('woff2'),
+       url('../fonts/UniviaProUltra.woff') format('woff'),
+       url('../fonts/UniviaProUltra.ttf') format('truetype'),
+       url('../fonts/UniviaProUltra.svg#UniviaProUltra') format('svg'),
+       url('../fonts/UniviaProUltra.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProThin-Italic';
+  src: url('../fonts/UniviaProThin-Italic.eot');
+  src: url('../fonts/UniviaProThin-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProThin-Italic.woff') format('woff'),
+       url('../fonts/UniviaProThin-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProThin-Italic.svg#UniviaProThin-Italic') format('svg'),
+       url('../fonts/UniviaProThin-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProThin';
+  src: url('../fonts/UniviaProThin.eot');
+  src: url('../fonts/UniviaProThin.woff2') format('woff2'),
+       url('../fonts/UniviaProThin.woff') format('woff'),
+       url('../fonts/UniviaProThin.ttf') format('truetype'),
+       url('../fonts/UniviaProThin.svg#UniviaProThin') format('svg'),
+       url('../fonts/UniviaProThin.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProRegular-Italic';
+  src: url('../fonts/UniviaProRegular-Italic.eot');
+  src: url('../fonts/UniviaProRegular-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProRegular-Italic.woff') format('woff'),
+       url('../fonts/UniviaProRegular-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProRegular-Italic.svg#UniviaProRegular-Italic') format('svg'),
+       url('../fonts/UniviaProRegular-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProRegular';
+  src: url('../fonts/UniviaProRegular.eot');
+  src: url('../fonts/UniviaProRegular.woff2') format('woff2'),
+       url('../fonts/UniviaProRegular.woff') format('woff'),
+       url('../fonts/UniviaProRegular.ttf') format('truetype'),
+       url('../fonts/UniviaProRegular.svg#UniviaProRegular') format('svg'),
+       url('../fonts/UniviaProRegular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProMedium-Italic';
+  src: url('../fonts/UniviaProMedium-Italic.eot');
+  src: url('../fonts/UniviaProMedium-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProMedium-Italic.woff') format('woff'),
+       url('../fonts/UniviaProMedium-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProMedium-Italic.svg#UniviaProMedium-Italic') format('svg'),
+       url('../fonts/UniviaProMedium-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaPro-Medium';
+  src: url('../fonts/UniviaPro-Medium.eot');
+  src: url('../fonts/UniviaPro-Medium.woff2') format('woff2'),
+       url('../fonts/UniviaPro-Medium.woff') format('woff'),
+       url('../fonts/UniviaPro-Medium.ttf') format('truetype'),
+       url('../fonts/UniviaPro-Medium.svg#UniviaPro-Medium') format('svg'),
+       url('../fonts/UniviaPro-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProLight-Italic';
+  src: url('../fonts/UniviaProLight-Italic.eot');
+  src: url('../fonts/UniviaProLight-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProLight-Italic.woff') format('woff'),
+       url('../fonts/UniviaProLight-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProLight-Italic.svg#UniviaProLight-Italic') format('svg'),
+       url('../fonts/UniviaProLight-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaPro-Light';
+  src: url('../fonts/UniviaPro-Light.eot');
+  src: url('../fonts/UniviaPro-Light.woff2') format('woff2'),
+       url('../fonts/UniviaPro-Light.woff') format('woff'),
+       url('../fonts/UniviaPro-Light.ttf') format('truetype'),
+       url('../fonts/UniviaPro-Light.svg#UniviaPro-Light') format('svg'),
+       url('../fonts/UniviaPro-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProBook-Italic';
+  src: url('../fonts/UniviaProBook-Italic.eot');
+  src: url('../fonts/UniviaProBook-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProBook-Italic.woff') format('woff'),
+       url('../fonts/UniviaProBook-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProBook-Italic.svg#UniviaProBook-Italic') format('svg'),
+       url('../fonts/UniviaProBook-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProBook';
+  src: url('../fonts/UniviaProBook.eot');
+  src: url('../fonts/UniviaProBook.woff2') format('woff2'),
+       url('../fonts/UniviaProBook.woff') format('woff'),
+       url('../fonts/UniviaProBook.ttf') format('truetype'),
+       url('../fonts/UniviaProBook.svg#UniviaProBook') format('svg'),
+       url('../fonts/UniviaProBook.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProBold-BoldItalic';
+  src: url('../fonts/UniviaProBold-BoldItalic.eot');
+  src: url('../fonts/UniviaProBold-BoldItalic.woff2') format('woff2'),
+       url('../fonts/UniviaProBold-BoldItalic.woff') format('woff'),
+       url('../fonts/UniviaProBold-BoldItalic.ttf') format('truetype'),
+       url('../fonts/UniviaProBold-BoldItalic.svg#UniviaProBold-BoldItalic') format('svg'),
+       url('../fonts/UniviaProBold-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaPro-Bold';
+  src: url('../fonts/UniviaPro-Bold.eot');
+  src: url('../fonts/UniviaPro-Bold.woff2') format('woff2'),
+       url('../fonts/UniviaPro-Bold.woff') format('woff'),
+       url('../fonts/UniviaPro-Bold.ttf') format('truetype'),
+       url('../fonts/UniviaPro-Bold.svg#UniviaPro-Bold') format('svg'),
+       url('../fonts/UniviaPro-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProBlack-Italic';
+  src: url('../fonts/UniviaProBlack-Italic.eot');
+  src: url('../fonts/UniviaProBlack-Italic.woff2') format('woff2'),
+       url('../fonts/UniviaProBlack-Italic.woff') format('woff'),
+       url('../fonts/UniviaProBlack-Italic.ttf') format('truetype'),
+       url('../fonts/UniviaProBlack-Italic.svg#UniviaProBlack-Italic') format('svg'),
+       url('../fonts/UniviaProBlack-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniviaProBlack';
+  src: url('../fonts/UniviaProBlack.eot');
+  src: url('../fonts/UniviaProBlack.woff2') format('woff2'),
+       url('../fonts/UniviaProBlack.woff') format('woff'),
+       url('../fonts/UniviaProBlack.ttf') format('truetype'),
+       url('../fonts/UniviaProBlack.svg#UniviaProBlack') format('svg'),
+       url('../fonts/UniviaProBlack.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

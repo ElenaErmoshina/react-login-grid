@@ -65,7 +65,7 @@ export function login(username, password) {
         dispatch(setAuthState(success));
         if (success === true) {
           // If the login worked, forward the user to the dashboard and clear the form
-          forwardTo('/dashboard');
+          forwardTo('/');
           dispatch(changeForm({
             username: "",
             password: ""
@@ -132,7 +132,7 @@ export function register(username, password) {
         dispatch(setAuthState(success));
         if (success) {
           // If the register worked, forward the user to the homepage and clear the form
-          forwardTo('/dashboard');
+          forwardTo('/');
           dispatch(changeForm({
             username: "",
             password: ""

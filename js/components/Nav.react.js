@@ -31,11 +31,18 @@ class Nav extends Component {
         </div>
       );
 
+    const logo = (<a href="/"><img src="/img/roland_cloud_official_header_logo.png" alt="Roland Cloud Logo" /></a>);
+
     return(
       <div className="nav">
+        <div className="nav__logo">
+          { logo }
+        </div>
         <div className="nav__wrapper">
-          <Link to="/" className="nav__logo-wrapper"><h1 className="nav__logo">Login&nbsp;Flow</h1></Link>
-          { navButtons }
+          <Link to="/" className="nav__logo-wrapper"><h1 className="nav__logo">Cloud&nbsp;Render</h1></Link>
+        </div>
+        <div>
+        { navButtons }
         </div>
       </div>
     );
