@@ -34,7 +34,7 @@ class HomePage extends Component {
 						) : (
 							<div>
 								<Link to="/login" className="btn btn--login">Login</Link>
-								<Link to="/register" className="btn btn--register">Register</Link>
+								
 							</div>
 						)}
 					</section>
