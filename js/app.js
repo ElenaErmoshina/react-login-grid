@@ -37,6 +37,9 @@ import { Provider } from 'react-redux';
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 import { homeReducer } from './reducers/reducers';
 import FontFaceObserver from 'fontfaceobserver';
+import ReactDataGrid from 'react-data-grid';
+import ReactDataGridPlugins from 'react-data-grid/addons';
+import ReactBootstrap from 'react-bootstrap';
 
 // When Open Sans is loaded, add the js-open-sans-loaded class to the body
 // which swaps out the fonts
