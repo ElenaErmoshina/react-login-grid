@@ -26,11 +26,9 @@ class HomePage extends Component {
 						) : (
 							<h1>Welcome to Roland Cloud Rendering!</h1>
 						)}
-						<p>This application demonstrates what a React.js based register/login workflow might look like on the Frontend. I used <a href="https://github.com/mxstbr/react-boilerplate">react-boilerplate</a> as a starting point — the app thus uses Redux, PostCSS, react-router, ServiceWorker, AppCache, bcrypt and lots more. See the full source code on <a href="https://github.com/mxstbr/login-flow">Github</a>!</p>
-						<p>The default username is <code>AzureDiamond</code> and the default password is <code>hunter2</code>, but feel free to register new users! The registered users are saved to localStorage, so they'll persist across page reloads.</p>
+						
 						{loggedIn ? (
 							<div>
-								<Link to="/dashboard" className="btn btn--dash">Dashboard</Link>
 								<Link to="/rendering" className="btn btn--dash">Rendering</Link>
 							</div>
 						) : (

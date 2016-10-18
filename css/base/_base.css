@@ -23,6 +23,7 @@ body {
 	padding: 0;
   width: 100%;
   height: 100%;
+  background-image: url('/img/worn_dots.png');
 }
 
 body {
@@ -32,5 +33,5 @@ body {
 }
 
 body.js-open-sans-loaded {
-	font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-family: 'Univia Pro', Helvetica Neue, Helvetica, Arial, sans-serif;
 }

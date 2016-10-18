@@ -38,6 +38,7 @@
 .btn--nav {
   font-size: 0.8em;
   text-transform: uppercase;
+  font-family: 'UniviaProRegular', sans-serif;
 }
 
 .btn--nav + .btn--nav {
